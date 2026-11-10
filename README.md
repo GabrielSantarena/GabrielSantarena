@@ -47,20 +47,24 @@ extra:     Automatizaciones con n8n e integración de APIs de IA
 
 ## 🤝 Proyectos en equipo
 
+Proyectos de la organización **HotCode2025**, ordenados por semestre: a la izquierda el proyecto integrador y a la derecha el repo con los trabajos de la cursada.
+
 <p>
-  <a href="https://github.com/HotCode2025/PI_TercerSemestre-ByteNine">
-    <img width="49%" src="./profile/card-bytenine.svg" alt="ByteNine — Sistema Médico Integrado"/>
-  </a>
-  <a href="https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre">
-    <img width="49%" src="./profile/card-qwerty123.svg" alt="Qwerty123 — Cuarto semestre"/>
-  </a>
+  <a href="https://github.com/HotCode2025/Qwerty123-ProyectoIntegrador-Ecommerce-CuartoSemestre"><img width="49%" src="./profile/card-goldenpoint.svg" alt="Golden Point — E-commerce deportivo"/></a>
+  <a href="https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre"><img width="49%" src="./profile/card-qwerty123.svg" alt="Qwerty123 — Cuarto semestre"/></a>
+  <a href="https://github.com/HotCode2025/PI_TercerSemestre-ByteNine"><img width="49%" src="./profile/card-sistema-medico.svg" alt="ByteNine — Sistema Médico Integrado"/></a>
+  <a href="https://github.com/HotCode2025/ByteNine-Tercer-Semestre"><img width="49%" src="./profile/card-bytenine-3.svg" alt="ByteNine — Tercer semestre"/></a>
+  <a href="https://github.com/HotCode2025/PI_SegundoSemestre-ByteNine"><img width="49%" src="./profile/card-ahorcado.svg" alt="ByteNine — Juego del Ahorcado"/></a>
+  <a href="https://github.com/HotCode2025/ByteNine-Segundo-Semestre"><img width="49%" src="./profile/card-bytenine-2.svg" alt="ByteNine — Segundo semestre"/></a>
 </p>
 
-**🏥 ByteNine — Sistema Médico Integrado.** Proyecto integrador de tercer semestre: pacientes, historias clínicas, turnos, recetas y usuarios, con interfaz en CustomTkinter y base PostgreSQL. Mi parte: módulo de Pacientes y revisión de código.
+- **🛒 Golden Point:** e-commerce de fútbol, básquet y pádel con API REST en Java + Spring Boot, frontend en React + Vite y MySQL. Tiene pagos con Mercado Pago, panel de administración y deploy en Vercel, Render y Aiven.
+  <a href="https://golden-point-kappa.vercel.app/"><img src="https://img.shields.io/badge/Ver_demo-161B22?style=flat-square&logo=vercel&logoColor=2DD4BF" alt="Ver demo de Golden Point" align="absmiddle"/></a>
+- **🏥 Sistema Médico:** pacientes, historias clínicas, turnos, recetas y usuarios, con CustomTkinter y PostgreSQL. Mi parte: módulo de Pacientes y revisión de código.
+- **🎮 Ahorcado:** app de escritorio en Java con interfaz Swing y modo consola, registro e inicio de sesión, roles de jugador y administrador, ranking global e historial de partidas.
+- **📚 Repos de cursada:** los trabajos de cada semestre en Java, Python y JavaScript: un planificador de tareas con Spring Boot, una app PERN y un portafolio grupal en React, entre otros.
 
-**📚 Qwerty123 — Cuarto semestre.** Repositorio del grupo con los trabajos de la cursada: un planificador de tareas con Java + Spring Boot y MySQL, un e-commerce cliente/servidor, una app PERN (PostgreSQL, Express, React, Node), un juego en Python y prácticas de JavaScript.
-
-<!-- Próximos proyectos: agregar una tarjeta en /profile y un párrafo como los de arriba -->
+<!-- Próximos proyectos: agregar una tarjeta en /profile y una línea en la lista de arriba -->
 
 ## 📊 Estadísticas
 
