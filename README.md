@@ -1,105 +1,73 @@
-<h1 align="center">Hola, soy Gabriel Santarena 👋</h1>
-
 <p align="center">
-  Desarrollador de paginas web y aplicaciones móviles<br/>
-  Estudiante de la Tecnicatura Universitaria en Programación<br/>
-  <sub>Universidad Tecnológica Nacional — Facultad Regional San Rafael, Mendoza</sub>
+  <img src="./profile/header.svg" alt="Gabriel Santarena — Desarrollador web y mobile" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-santarena-98121227b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gabrielsantarena69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://www.linkedin.com/in/gabriel-santarena-98121227b/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn"/></a>
+  <a href="mailto:gabrielsantarena69@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email"/></a>
 </p>
 
----
-
-## Sobre mí
+## 👨‍💻 Sobre mí
 
 Desarrollo aplicaciones que resuelven problemas concretos: gestión de producción agropecuaria, sistemas de administración y automatizaciones. Trabajo de forma iterativa, empezando por los fundamentos y refinando sobre la marcha.
 
-- 🎓 Cursando la **Tecnicatura Universitaria en Programación** en la UTN — Facultad Regional San Rafael
-- 🛠️ Full stack: React + TypeScript en el front, Python y Firebase en el back
-- 📱 Builds nativos Android con Capacitor
-- 🤖 Automatizaciones con n8n e integración de APIs de IA
-- 📫 Contacto: **gabrielsantarena69@gmail.com**
+```yaml
+estudio:   Tecnicatura Universitaria en Programación — UTN FRSR
+front:     React + TypeScript
+back:      Python · Java · Firebase
+mobile:    Builds nativos Android con Capacitor
+extra:     Automatizaciones con n8n e integración de APIs de IA
+```
 
----
+## 🛠️ Tecnologías
 
-## Tecnologías
+<p>
+  <img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" alt="SQL"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/MUI-161B22?style=flat-square&logo=mui&logoColor=007FFF" alt="MUI"/>
+  <img src="https://img.shields.io/badge/HTML%2FCSS-161B22?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML/CSS"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/Android_Studio-161B22?style=flat-square&logo=androidstudio&logoColor=3DDC84" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma"/>
+</p>
 
-**Lenguajes**
+## 🤝 Proyectos en equipo
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+  <a href="https://github.com/HotCode2025/PI_TercerSemestre-ByteNine">
+    <img width="49%" src="./profile/card-bytenine.svg" alt="ByteNine — Sistema Médico Integrado"/>
+  </a>
+  <a href="https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre">
+    <img width="49%" src="./profile/card-qwerty123.svg" alt="Qwerty123 — Cuarto semestre"/>
+  </a>
+</p>
 
-**Frontend**
+**🏥 ByteNine — Sistema Médico Integrado.** Proyecto integrador de tercer semestre: pacientes, historias clínicas, turnos, recetas y usuarios, con interfaz en CustomTkinter y base PostgreSQL. Mi parte: módulo de Pacientes y revisión de código.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+**📚 Qwerty123 — Cuarto semestre.** Repositorio del grupo con los trabajos de la cursada: un planificador de tareas con Java + Spring Boot y MySQL, un e-commerce cliente/servidor, una app PERN (PostgreSQL, Express, React, Node), un juego en Python y prácticas de JavaScript.
 
-**Backend y datos**
+<!-- Próximos proyectos: agregar una tarjeta en /profile y un párrafo como los de arriba -->
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-**Herramientas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## Proyectos destacados
-
-### 🐖 FarmCycle — Gestión de granja porcina
-Aplicación para el seguimiento de reproducción y stock en granjas de cerdos. Incluye control de cerdas, machos, tabla de gestación y sistema de avisos.
-
-`React` `TypeScript` `Vite` `Tailwind` `MUI` `Capacitor`
-
-- Persistencia local mediante Context API
-- Diseño responsive con soporte de modo oscuro
-- Pipeline de build completo hasta APK Android con Capacitor
-
-### 🥚 GranjaStock — Control de producción de huevos
-Pagina web para registrar y hacer seguimiento de la producción de maples de huevos.
-
-`Firebase` `Firestore` `Autenticación con Google`
-
-- Base de datos en tiempo real
-- Acceso con cuenta de Google
-
-### 🏥 Sistema de Gestión Médica
-Sistema de escritorio para la administración de una clínica: pacientes, turnos, historia clínica, recetas y pagos.
-
-`Python` `CustomTkinter` `MySQL`
-
-- Proyecto grupal universitario
-
----
-
-## Estadísticas
+## 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielSantarena&show_icons=true&hide_border=true&cache_seconds=86400" alt="Estadísticas de GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantarena&layout=compact&hide_border=true&cache_seconds=86400" alt="Lenguajes más usados"/>
+  <img src="./profile/stats.svg" alt="Estadísticas de GitHub"/>
 </p>
 
 ---
 
-<p align="center">
-  <sub>¿Trabajamos juntos? Escribime por LinkedIn o mail.</sub>
-</p>
+<p align="center"><sub>¿Trabajamos juntos? Escribime por LinkedIn o mail.</sub></p>
