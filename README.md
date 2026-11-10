@@ -59,6 +59,7 @@ Proyectos de la organización **HotCode2025**, ordenados por semestre: a la izqu
 </p>
 
 - **🛒 Golden Point:** e-commerce de fútbol, básquet y pádel con API REST en Java + Spring Boot, frontend en React + Vite y MySQL. Tiene pagos con Mercado Pago, panel de administración y deploy en Vercel, Render y Aiven.
+  <a href="https://golden-point-kappa.vercel.app/"><img src="https://img.shields.io/badge/Ver_demo-161B22?style=flat-square&logo=vercel&logoColor=2DD4BF" alt="Ver demo de Golden Point" align="absmiddle"/></a>
 - **🏥 Sistema Médico:** pacientes, historias clínicas, turnos, recetas y usuarios, con CustomTkinter y PostgreSQL. Mi parte: módulo de Pacientes y revisión de código.
 - **🎮 Ahorcado:** app de escritorio en Java con interfaz Swing y modo consola, registro e inicio de sesión, roles de jugador y administrador, ranking global e historial de partidas.
 - **📚 Repos de cursada:** los trabajos de cada semestre en Java, Python y JavaScript: un planificador de tareas con Spring Boot, una app PERN y un portafolio grupal en React, entre otros.
