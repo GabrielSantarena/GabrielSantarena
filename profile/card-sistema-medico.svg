@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="156" viewBox="0 0 400 156">
+  <style>text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}</style>
+  <rect x=".5" y=".5" width="399" height="155" rx="12" fill="#0D1117" stroke="#263241"/>
+  <rect x="0" y="0" width="4" height="156" rx="2" fill="#2DD4BF"/>
+  <text x="24" y="36" font-size="11" fill="#6B7785" letter-spacing="1.5">HOTCODE2025 · 3ER SEMESTRE</text>
+  <g transform="translate(376 22)"><rect x="-92" width="92" height="20" rx="10" fill="none" stroke="#2DD4BF" opacity=".7"/><text x="-46" y="14" font-size="10" fill="#2DD4BF" text-anchor="middle" letter-spacing="1">INTEGRADOR</text></g>
+  <text x="24" y="66" font-size="20" font-weight="700" fill="#E6EDF3">🏥 Sistema Médico</text>
+  <text x="24" y="90" font-size="14" fill="#2DD4BF">Pacientes, turnos y recetas</text>
+  <g transform="translate(24 112)"><rect width="73" height="24" rx="12" fill="#161b22" stroke="#263241"/><circle cx="13" cy="12" r="4" fill="#3776AB"/><text x="23" y="16" font-size="12" fill="#C9D1D9">Python</text></g><g transform="translate(105.2 112)"><rect width="102" height="24" rx="12" fill="#161b22" stroke="#263241"/><circle cx="13" cy="12" r="4" fill="#4169E1"/><text x="23" y="16" font-size="12" fill="#C9D1D9">PostgreSQL</text></g><g transform="translate(215.2 112)"><rect width="124" height="24" rx="12" fill="#161b22" stroke="#263241"/><circle cx="13" cy="12" r="4" fill="#2DD4BF"/><text x="23" y="16" font-size="12" fill="#C9D1D9">CustomTkinter</text></g>
+</svg>
