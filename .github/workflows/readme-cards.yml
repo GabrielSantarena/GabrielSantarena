@@ -28,33 +28,6 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Tarjeta de lenguajes
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=GabrielSantarena&layout=compact&langs_count=6&locale=es&${{ env.THEME }}
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Tarjeta ByteNine (HotCode2025)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=HotCode2025&repo=PI_TercerSemestre-ByteNine&show_owner=true&locale=es&${{ env.THEME }}
-          path: profile/pin-bytenine.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Tarjeta Qwerty123 (HotCode2025)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=HotCode2025&repo=Qwerty123-Cuarto-Semestre&show_owner=true&locale=es&${{ env.THEME }}
-          path: profile/pin-qwerty123.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      # Para sumar otro repo de una organización, copiá el paso de arriba
-      # y cambiá username (la organización), repo y path.
-
       - name: Guardar tarjetas
         run: |
           git config user.name "github-actions[bot]"

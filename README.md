@@ -49,10 +49,10 @@ extra:     Automatizaciones con n8n e integración de APIs de IA
 
 <p>
   <a href="https://github.com/HotCode2025/PI_TercerSemestre-ByteNine">
-    <img src="./profile/pin-bytenine.svg" alt="PI_TercerSemestre-ByteNine"/>
+    <img width="49%" src="./profile/card-bytenine.svg" alt="ByteNine — Sistema Médico Integrado"/>
   </a>
   <a href="https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre">
-    <img src="./profile/pin-qwerty123.svg" alt="Qwerty123-Cuarto-Semestre"/>
+    <img width="49%" src="./profile/card-qwerty123.svg" alt="Qwerty123 — Cuarto semestre"/>
   </a>
 </p>
 
@@ -60,13 +60,12 @@ extra:     Automatizaciones con n8n e integración de APIs de IA
 
 **📚 Qwerty123 — Cuarto semestre.** Repositorio del grupo con los trabajos de la cursada: un planificador de tareas con Java + Spring Boot y MySQL, un e-commerce cliente/servidor, una app PERN (PostgreSQL, Express, React, Node), un juego en Python y prácticas de JavaScript.
 
-<!-- Próximos proyectos: copiar el bloque de arriba y agregar el paso correspondiente en .github/workflows/readme-cards.yml -->
+<!-- Próximos proyectos: agregar una tarjeta en /profile y un párrafo como los de arriba -->
 
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="170" src="./profile/stats.svg" alt="Estadísticas de GitHub"/>
-  <img height="170" src="./profile/top-langs.svg" alt="Lenguajes más usados"/>
+  <img src="./profile/stats.svg" alt="Estadísticas de GitHub"/>
 </p>
 
 ---
