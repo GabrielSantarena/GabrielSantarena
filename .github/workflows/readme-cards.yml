@@ -24,7 +24,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=GabrielSantarena&show_icons=true&include_all_commits=true&locale=es&${{ env.THEME }}
+          options: username=GabrielSantarena&show_icons=true&include_all_commits=true&disable_animations=true&locale=es&${{ env.THEME }}
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
